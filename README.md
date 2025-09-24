@@ -1,4 +1,7 @@
 # devobs-september
+
 DevObs - Semptember Public
 
-Change on server -- 
+- git clone URL
+- fetch merge
+- git pull -> something new...
